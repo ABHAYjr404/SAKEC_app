@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "311170601175",
+    "project_id": "emailpasswordauth-d7f97",
+    "storage_bucket": "emailpasswordauth-d7f97.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:311170601175:android:20a9586cc90c5c4624e092",
+        "android_client_info": {
+          "package_name": "com.example.sakec_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "311170601175-r38jojhceinn8uc96ijbtnsqqrn6p73u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sakec_app",
+            "certificate_hash": "a9921de4633829cc5e54448e11d48f4c8bf9d277"
+          }
+        },
+        {
+          "client_id": "311170601175-58s3jba60rdgk1hv9atjfmoq5cfnvp67.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcUA6Hnh3gWeQM5gsTRucR-kQycjbrJQ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "311170601175-58s3jba60rdgk1hv9atjfmoq5cfnvp67.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "311170601175-8a56sto10sl4qgf065k2o1i88bco32ht.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.sakecApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
