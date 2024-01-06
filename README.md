@@ -1,6 +1,7 @@
 # sakec_app
 
 A new Flutter project.
+SAKEC App 🎓📱: A mobile application developed with Flutter for seamless cross-platform functionality. Integrated with Firebase for real-time database management, authentication, and cloud storage. Features include user authentication, course enrollment, event notifications, and dynamic content updates. Explore the power of Flutter's UI toolkit and Firebase's robust backend services in this comprehensive college application project. #Flutter #Firebase #MobileAppDevelopment
 
 ## Getting Started
 
